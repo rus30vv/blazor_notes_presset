@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -352064170,
+        "Kind": "Components.Component",
+        "Name": "github.Pages.Index",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1728304635,
+        "Kind": "Components.Component",
+        "Name": "github.Pages.Index",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "github.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2096604044,
         "Kind": "Components.Component",
         "Name": "github.Pages.Counter",
@@ -74,39 +107,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "github.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -352064170,
-        "Kind": "Components.Component",
-        "Name": "github.Pages.Index",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1728304635,
-        "Kind": "Components.Component",
-        "Name": "github.Pages.Index",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "github.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
