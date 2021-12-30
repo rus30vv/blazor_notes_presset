@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -352064170,
-        "Kind": "Components.Component",
-        "Name": "github.Pages.Index",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1728304635,
-        "Kind": "Components.Component",
-        "Name": "github.Pages.Index",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "github.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2096604044,
         "Kind": "Components.Component",
         "Name": "github.Pages.Counter",
@@ -111,88 +78,35 @@
         }
       },
       {
-        "HashCode": -2093612609,
+        "HashCode": -352064170,
         "Kind": "Components.Component",
-        "Name": "github.App",
+        "Name": "github.Pages.Index",
         "AssemblyName": "github",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.App"
+          "Common.TypeName": "github.Pages.Index"
         }
       },
       {
-        "HashCode": 1543643148,
+        "HashCode": -1728304635,
         "Kind": "Components.Component",
-        "Name": "github.App",
+        "Name": "github.Pages.Index",
         "AssemblyName": "github",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "github.App"
+            "TagName": "github.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 27700210,
-        "Kind": "Components.Component",
-        "Name": "github.Shared.SurveyPrompt",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1471027934,
-        "Kind": "Components.Component",
-        "Name": "github.Shared.SurveyPrompt",
-        "AssemblyName": "github",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "github.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "github.Shared.SurveyPrompt",
+          "Common.TypeName": "github.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,6 +207,59 @@
         }
       },
       {
+        "HashCode": 27700210,
+        "Kind": "Components.Component",
+        "Name": "github.Shared.SurveyPrompt",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1471027934,
+        "Kind": "Components.Component",
+        "Name": "github.Shared.SurveyPrompt",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "github.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -959471484,
         "Kind": "Components.Component",
         "Name": "github.Shared.NavMenu",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "github.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2093612609,
+        "Kind": "Components.Component",
+        "Name": "github.App",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.App"
+        }
+      },
+      {
+        "HashCode": 1543643148,
+        "Kind": "Components.Component",
+        "Name": "github.App",
+        "AssemblyName": "github",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "github.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "github.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
